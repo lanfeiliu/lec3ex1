@@ -3,4 +3,10 @@ Guange
 hahahah
 Tong Yin
 Guange
+<<<<<<< HEAD
 LaLALA
+=======
+Hungry
+LaLALA
+
+>>>>>>> 7d8b4c2ac7c05133f5dc750065462e82bc363d7d
